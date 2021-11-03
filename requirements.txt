@@ -1,74 +1,48 @@
-# packages in environment at /home/hesam/anaconda3/envs/PersonalWebSite:
-#
-# Name                    Version                   Build  Channel
-_libgcc_mutex             0.1                        main  
-_openmp_mutex             4.5                       1_gnu  
-anyascii                  0.3.0                    pypi_0    pypi
-asgiref                   3.4.1              pyhd3eb1b0_0  
-beautifulsoup4            4.9.3                    pypi_0    pypi
-ca-certificates           2021.10.26           h06a4308_2  
-certifi                   2021.10.8        py39h06a4308_0  
-charset-normalizer        2.0.7                    pypi_0    pypi
-click                     8.0.3                    pypi_0    pypi
-coderedcms                0.22.3                   pypi_0    pypi
-decorator                 5.1.0                    pypi_0    pypi
-django                    3.2.9                    pypi_0    pypi
-django-bootstrap4         2.3.1                    pypi_0    pypi
-django-eventtools         1.0.3                    pypi_0    pypi
-django-filter             2.4.0                    pypi_0    pypi
-django-modelcluster       5.2                      pypi_0    pypi
-django-taggit             1.5.1                    pypi_0    pypi
-django-treebeard          4.5.1                    pypi_0    pypi
-djangorestframework       3.12.4                   pypi_0    pypi
-draftjs-exporter          2.1.7                    pypi_0    pypi
-et-xmlfile                1.1.0                    pypi_0    pypi
-future                    0.18.2                   pypi_0    pypi
-geocoder                  1.38.1                   pypi_0    pypi
-html5lib                  1.1                      pypi_0    pypi
-icalendar                 4.0.9                    pypi_0    pypi
-idna                      3.3                      pypi_0    pypi
-krb5                      1.19.2               hac12032_0  
-l18n                      2020.6.1                 pypi_0    pypi
-ld_impl_linux-64          2.35.1               h7274673_9  
-libedit                   3.1.20210714         h7f8727e_0  
-libffi                    3.3                  he6710b0_2  
-libgcc-ng                 9.3.0               h5101ec6_17  
-libgomp                   9.3.0               h5101ec6_17  
-libpq                     12.2                 h553bfba_1  
-libstdcxx-ng              9.3.0               hd4cf53a_17  
-ncurses                   6.3                  h7f8727e_0  
-openpyxl                  3.0.9                    pypi_0    pypi
-openssl                   1.1.1l               h7f8727e_0  
-pillow                    8.4.0                    pypi_0    pypi
-pip                       21.2.4           py39h06a4308_0  
-psycopg2                  2.8.6            py39h3c74f83_1  
-python                    3.9.7                h12debd9_1  
-python-dateutil           2.8.2                    pypi_0    pypi
-pytz                      2021.3                   pypi_0    pypi
-ratelim                   0.1.6                    pypi_0    pypi
-readline                  8.1                  h27cfd23_0  
-requests                  2.26.0                   pypi_0    pypi
-setuptools                58.0.4           py39h06a4308_0  
-six                       1.16.0                   pypi_0    pypi
-soupsieve                 2.2.1                    pypi_0    pypi
-sqlite                    3.36.0               hc218d9a_0  
-sqlparse                  0.4.2                    pypi_0    pypi
-tablib                    3.1.0                    pypi_0    pypi
-telepath                  0.2                      pypi_0    pypi
-tk                        8.6.11               h1ccaba5_0  
-typing_extensions         3.10.0.2           pyh06a4308_0  
-tzdata                    2021e                hda174b7_0  
-urllib3                   1.26.7                   pypi_0    pypi
-wagtail                   2.14.2                   pypi_0    pypi
-wagtail-cache             1.0.2                    pypi_0    pypi
-wagtail-import-export     0.2                      pypi_0    pypi
-wagtail-seo               1.0.0                    pypi_0    pypi
-wagtailfontawesome        1.2.1                    pypi_0    pypi
-webencodings              0.5.1                    pypi_0    pypi
-wheel                     0.37.0             pyhd3eb1b0_1  
-willow                    1.4                      pypi_0    pypi
-xlrd                      2.0.1                    pypi_0    pypi
-xlsxwriter                1.4.5                    pypi_0    pypi
-xlwt                      1.3.0                    pypi_0    pypi
-xz                        5.2.5                h7b6447c_0  
-zlib                      1.2.11               h7b6447c_3  
+anyascii==0.3.0
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+beautifulsoup4==4.9.3
+certifi==2021.10.8
+charset-normalizer==2.0.7
+click==8.0.3
+coderedcms==0.22.3
+decorator==5.1.0
+Django==3.2.9
+django-bootstrap4==2.3.1
+django-eventtools==1.0.3
+django-filter==2.4.0
+django-modelcluster==5.2
+django-taggit==1.5.1
+django-treebeard==4.5.1
+djangorestframework==3.12.4
+draftjs-exporter==2.1.7
+et-xmlfile==1.1.0
+future==0.18.2
+geocoder==1.38.1
+html5lib==1.1
+icalendar==4.0.9
+idna==3.3
+l18n==2020.6.1
+openpyxl==3.0.9
+Pillow==8.4.0
+psycopg2 @ file:///tmp/build/80754af9/psycopg2_1612298595717/work
+python-dateutil==2.8.2
+pytz==2021.3
+ratelim==0.1.6
+requests==2.26.0
+six==1.16.0
+soupsieve==2.2.1
+sqlparse==0.4.2
+tablib==3.1.0
+telepath==0.2
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3==1.26.7
+wagtail==2.14.2
+wagtail-cache==1.0.2
+wagtail-import-export==0.2
+wagtail-seo==1.0.0
+wagtailfontawesome==1.2.1
+webencodings==0.5.1
+Willow==1.4
+xlrd==2.0.1
+XlsxWriter==1.4.5
+xlwt==1.3.0
